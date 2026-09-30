@@ -1,0 +1,4 @@
+The do while loop because, it  executes the loops body at least once before checking the condition 
+
+
+The while loop checks then execute the body. So once the condition is false it will not execute

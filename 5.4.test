@@ -1,0 +1,10 @@
+It is missing a curly brace to signify that that is one block of text, insted of the semicolon that is there
+
+
+b) In this situation and this code the k is not equal to 1.0 is not a proper condition and a condition that can be looked forward to being true so it should be changed to something like K greaterthan 1.0
+
+
+c)  The first case is missing a break which will cause more than one case to be executed
+
+
+d)  The code is supposed to be n <= 10 not n<10 this will print just 1 to 9 and not 1 to 10 

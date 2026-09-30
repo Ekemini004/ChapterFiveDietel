@@ -1,0 +1,17 @@
+a)  for loop is for counter-controlled iteration 
+     while loop is for sentinel controlled iteration
+
+b)  The do...while statement tests the loops condition AFTER executing the loop’s body; so because of that the loops body will run once then it will now start checking against condition 
+
+c)  The "Switch" statement is for   when you want a user to select amongst multiple actions based on the possible values of an integer variable or expression, or a String. that is; yes or no, 1 0r 2 and so on
+
+d)  The "Continue" statement, skips the remaining statements in the loop body and proceeds with the next iteration of the loop. like it oesnt do what is in the body of the loop and jst contnues to te net index. 
+
+
+e)  The "&&" operator checks that two conditions are both true before choosing a certain path of execution.
+
+f)  If the loop-continuation condition in a "for" header is initially false, the program does not execute the "for loop" statement's body. it means that the loop wont run at all ecause it has already ended.
+
+
+
+g)  staic methods are Methods that perform common tasks and do not require objects to be created before they are called or invoked.

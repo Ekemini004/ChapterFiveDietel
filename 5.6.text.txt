@@ -1,0 +1,8 @@
+Both while loop and for loop are used for iteration.they are both use to ,ove through numbers and stop when the condtio that governs them is false
+
+
+
+Difference
+For loop is used for counter controlled that is, you know when you want the user to stop so it is stated 
+
+While loop is used for sentinel control that is, the user stops when a sentinel you have constructed is inputed by them . otherwose when they will stop is unknown

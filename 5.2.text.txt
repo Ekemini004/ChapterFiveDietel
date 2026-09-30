@@ -1,0 +1,17 @@
+a) the default case is not necessary it can behandled with an else statement which still stands for the same "other possible options" so, false.
+
+b)  True. A break case is required in a switch selection , to exit the switch case and not carry out the others after it 
+
+c)  False because  both have to be true.
+
+
+d)  True because The or operator || is true if either or both of the condition are true so the answer True
+
+
+e) True  because the comma is for showing groups.
+
+
+f)  false because this is java and not python. java  does not make use of - as range in thier switch case.
+
+
+
